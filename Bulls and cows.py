@@ -51,4 +51,4 @@ while k > 0:
         print("You win!")
         break
 else:
-    print(f"You lose :(\n Hidden number was {n}")
+    print(f"You lose :(\nHidden number was {n}")
